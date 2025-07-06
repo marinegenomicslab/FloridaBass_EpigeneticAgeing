@@ -3,8 +3,7 @@
 Data and scripts/code associated with "Nonlethal, epigenetic age estimation in a freshwater sportfish, Florida bass (*Micropterus salmoides*)" D.N. Weber et al. 2025. Submitted to Ecology and Evolution.
 
 ## Associated data can be found in the "Data" folder, including:
-- "RADmeth_treated_filtered_tot.zip" contains total read counts for all individuals and all CpG sites post-filtering for depth and coverage.
-- "RADmeth_treated_filtered_match.zip" contains methylated read counts for all individuals and all CpG sites post-filtering for depth and coverage.
+- "RADmeth_treated_filtered.xz" contains methylated and total read counts for all individuals and all CpG sites post-filtering for depth and coverage.
 - "Metadata.csv" contains the metadata associated with all individuals included in the present study (including sample IDs and otolith-derived ages).
 
 ## Associated code can be found in the "Scripts" folder, including:
