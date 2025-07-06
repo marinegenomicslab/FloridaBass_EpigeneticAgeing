@@ -4,7 +4,7 @@ Data and scripts/code associated with "Nonlethal, epigenetic age estimation in a
 
 ## Associated data can be found in the "Data" folder, including:
 - "RADmeth_treated_filtered.zip" contains methylated and total read counts for all individuals and all CpG sites post-filtering for depth and coverage.
-- "Metadata.csv" contains the metadata associated with all individuals included in the present study (including sample IDs and dates of birth).
+- "Metadata.csv" contains the metadata associated with all individuals included in the present study (including sample IDs and otolith-derived ages).
 
 ## Associated code can be found in the "Scripts" folder, including:
 
